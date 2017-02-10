@@ -2,7 +2,7 @@
 Simple Arithmetic Game that gives addition or subtraction questions.
 
 ##Development
-**Things to change:**
+**Things to add:**
 
 - Make it more presentable 
 
