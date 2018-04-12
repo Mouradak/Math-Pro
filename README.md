@@ -1,7 +1,7 @@
 # MathPro
 Simple Arithmetic Game that gives addition or subtraction questions.
 
-##Development
+# Development
 **Things to add:**
 
 - Make it more presentable 
@@ -11,4 +11,4 @@ Simple Arithmetic Game that gives addition or subtraction questions.
 - (possibly) add levels of difficulty
 
 
-#Thank you
+# Thank you
